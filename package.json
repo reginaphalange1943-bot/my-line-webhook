@@ -1,0 +1,9 @@
+{
+  "name": "my-line-webhook",
+  "version": "1.0.0",
+  "main": "api/line-webhook.js",
+  "scripts": {
+    "start": "node api/line-webhook.js"
+  },
+  "dependencies": {}
+}
